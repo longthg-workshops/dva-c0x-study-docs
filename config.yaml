@@ -6,6 +6,7 @@ enableGitInfo: true
 
 # Languages
 defaultContentLanguage: en
+defaultContentLanguageInSubdir: true
 languages:
   en:
     contentDir: content/en
