@@ -1,5 +1,5 @@
 ---
-title: Prepare your environment
+title: "Prepare your environment"
 weight: 1
 ---
 
