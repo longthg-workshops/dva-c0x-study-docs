@@ -4,6 +4,18 @@ baseURL: https://longthg-workshops.github.io/dva-c0x-study-docs/
 disablePathToLower: true
 enableGitInfo: true
 
+# Languages
+defaultContentLanguage: en
+languages:
+  en:
+    contentDir: content/en
+    disabled: false
+    languageCode: "en"
+    languageDirection: ""
+    languageName: "English"
+    title: ""
+    weight: 0
+
 # # Needed for mermaid/katex shortcodes
 markup:
   goldmark:
