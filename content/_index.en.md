@@ -1,5 +1,5 @@
 ---
-title: AWS Certified Developer - Associate - Exam preparation note
+title: "AWS Certified Developer - Associate - Exam preparation note"
 enableToc: true
 ---
 
