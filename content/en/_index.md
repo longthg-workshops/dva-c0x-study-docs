@@ -1,5 +1,5 @@
 ---
-title: "AWS Certified Developer - Associate - Exam preparation note"
+title: "AWS Certified Developer - Associate - Exam preparation notes"
 enableToc: true
 ---
 
@@ -28,3 +28,9 @@ This certification is valid for 3 years. Before your certification expires, you 
 # What can this documentation do ?
 
 This documentation provides you with a condensed version of whatever knowledge required to get through the DVA-C02 exam. However, this does not contain all knowledge, some might not be detailed due to this being mostly a personal documentation. You can send an Issue in the GitHub Repo of this documentation in case errors/misinformation was found, which is highly appreciated.
+
+# Now that you know it...
+
+Cloud or Belize, where would you wanna go ?
+
+![Pinkman](/images/homepage/jessewannacook.jpg)

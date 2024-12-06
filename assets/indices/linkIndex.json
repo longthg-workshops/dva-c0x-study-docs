@@ -1,7 +1,61 @@
 {
   "index": {
-    "links": {},
-    "backlinks": {}
+    "links": {
+      "/en/preparation/": [
+        {
+          "source": "/en/preparation/",
+          "target": "/",
+          "text": "Sign in to your AWS root Account"
+        },
+        {
+          "source": "/en/preparation/",
+          "target": "/",
+          "text": "Sign in to your IAM user"
+        },
+        {
+          "source": "/en/preparation/",
+          "target": "/console.aws.amazon.com/iam/home",
+          "text": "Identity \u0026 Access Management (IAM) Console"
+        }
+      ]
+    },
+    "backlinks": {
+      "/": [
+        {
+          "source": "/en/preparation/",
+          "target": "/",
+          "text": "Sign in to your AWS root Account"
+        },
+        {
+          "source": "/en/preparation/",
+          "target": "/",
+          "text": "Sign in to your IAM user"
+        }
+      ],
+      "/console.aws.amazon.com/iam/home": [
+        {
+          "source": "/en/preparation/",
+          "target": "/console.aws.amazon.com/iam/home",
+          "text": "Identity \u0026 Access Management (IAM) Console"
+        }
+      ]
+    }
   },
-  "links": null
+  "links": [
+    {
+      "source": "/en/preparation/",
+      "target": "/",
+      "text": "Sign in to your AWS root Account"
+    },
+    {
+      "source": "/en/preparation/",
+      "target": "/",
+      "text": "Sign in to your IAM user"
+    },
+    {
+      "source": "/en/preparation/",
+      "target": "/console.aws.amazon.com/iam/home",
+      "text": "Identity \u0026 Access Management (IAM) Console"
+    }
+  ]
 }
