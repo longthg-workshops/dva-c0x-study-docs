@@ -1,6 +1,6 @@
 ---
-title: "Prepare your environment"
 weight: 1
+title: "Chapter 0: Prepare your environment"
 ---
 
 You can't just learn about the cloud platform without creating an account and use the platform yourself, right ?
@@ -63,7 +63,9 @@ Choose a support plan. As a learner, I would just choose the free Basic plan. Yo
 
 ![support plan](/images/preparation/01-0009.png)
 
-Okay, at this point, the account creation process is done. Now you'll have to sign in to your account.
+Okay, at this point, the account creation process is done. Your account ID is a 12-digit number (e.g. `123456789012`).
+
+Now you'll have to sign in to your account.
 
 ## Sign in to your AWS root Account
 
@@ -119,7 +121,9 @@ After assigning MFA to your root account, the prompt at the main IAM console wil
 
 ## Create an IAM administrative user
 
-Let's create a user with Administrator Access. I'll call it _"administraitor"_ (no typo, let's hope he'll never break bad and turn into a traitor).
+The root account is basically "God Mode". Unless you're about to do some extremely crucial, account-level-only tasks, or something equal to an emergency case, using and exposing the root account is not recommended. That's why that account was given multiple layers of protection.
+
+Now, since I don't encourage using root account just to create and mess with your on-cloud resources, yet these lessons require you to interact with all services and resources, let's create an IAM user with Administrator Access permission (I'll tell you the different in a later chapter). I'll call it _"administraitor"_ (no typo, let's hope he'll never break bad and turn into a traitor).
 
 ![IAM Admin](/images/preparation/01-1011.png)
 
@@ -156,6 +160,8 @@ To proceed with the hands-on labs in the course, it is recommended to have these
 - Any up-to-date browser
 
 - An IDE or code editor. In my illustrations, I'll use Visual Studio Code with the AWS Toolkit installed.
+
+- A version manager. Git is recommended.
 
 - AWS CLI v2
 

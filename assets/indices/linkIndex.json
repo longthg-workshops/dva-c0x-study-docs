@@ -1,40 +1,68 @@
 {
   "index": {
     "links": {
-      "/en/preparation/": [
+      "/en/0-preparation/": [
         {
-          "source": "/en/preparation/",
+          "source": "/en/0-preparation/",
           "target": "/",
           "text": "Sign in to your AWS root Account"
         },
         {
-          "source": "/en/preparation/",
+          "source": "/en/0-preparation/",
           "target": "/",
           "text": "Sign in to your IAM user"
         },
         {
-          "source": "/en/preparation/",
+          "source": "/en/0-preparation/",
           "target": "/console.aws.amazon.com/iam/home",
           "text": "Identity \u0026 Access Management (IAM) Console"
+        }
+      ],
+      "/en/1-IAM/": [
+        {
+          "source": "/en/1-IAM/",
+          "target": "/../0-preparation/",
+          "text": "where you should take a look and follow the instructions"
+        }
+      ],
+      "/en/2-CLIandSDK/": [
+        {
+          "source": "/en/2-CLIandSDK/",
+          "target": "/./cli",
+          "text": "CLI guides"
         }
       ]
     },
     "backlinks": {
       "/": [
         {
-          "source": "/en/preparation/",
+          "source": "/en/0-preparation/",
           "target": "/",
           "text": "Sign in to your AWS root Account"
         },
         {
-          "source": "/en/preparation/",
+          "source": "/en/0-preparation/",
           "target": "/",
           "text": "Sign in to your IAM user"
         }
       ],
+      "/../0-preparation/": [
+        {
+          "source": "/en/1-IAM/",
+          "target": "/../0-preparation/",
+          "text": "where you should take a look and follow the instructions"
+        }
+      ],
+      "/./cli": [
+        {
+          "source": "/en/2-CLIandSDK/",
+          "target": "/./cli",
+          "text": "CLI guides"
+        }
+      ],
       "/console.aws.amazon.com/iam/home": [
         {
-          "source": "/en/preparation/",
+          "source": "/en/0-preparation/",
           "target": "/console.aws.amazon.com/iam/home",
           "text": "Identity \u0026 Access Management (IAM) Console"
         }
@@ -43,19 +71,29 @@
   },
   "links": [
     {
-      "source": "/en/preparation/",
+      "source": "/en/0-preparation/",
       "target": "/",
       "text": "Sign in to your AWS root Account"
     },
     {
-      "source": "/en/preparation/",
+      "source": "/en/0-preparation/",
       "target": "/",
       "text": "Sign in to your IAM user"
     },
     {
-      "source": "/en/preparation/",
+      "source": "/en/0-preparation/",
       "target": "/console.aws.amazon.com/iam/home",
       "text": "Identity \u0026 Access Management (IAM) Console"
+    },
+    {
+      "source": "/en/1-IAM/",
+      "target": "/../0-preparation/",
+      "text": "where you should take a look and follow the instructions"
+    },
+    {
+      "source": "/en/2-CLIandSDK/",
+      "target": "/./cli",
+      "text": "CLI guides"
     }
   ]
 }

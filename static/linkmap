@@ -1,2 +1,7 @@
+/en/1-IAM/components/index.{html} /en/1-IAM/components/
+/en/1-IAM/seccreds/index.{html} /en/1-IAM/seccreds/
+/en/2-CLIandSDK//index.{html} /en/2-CLIandSDK//
+/en/2-CLIandSDK/cli//index.{html} /en/2-CLIandSDK/cli//
 /en//index.{html} /en//
-/en/preparation//index.{html} /en/preparation//
+/en/0-preparation//index.{html} /en/0-preparation//
+/en/1-IAM//index.{html} /en/1-IAM//
